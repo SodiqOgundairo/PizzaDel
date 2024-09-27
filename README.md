@@ -1,6 +1,6 @@
-# flutter_application_1
+# PizzaDel
 
-A new Flutter project.
+A pizza delivery app.
 
 ## Getting Started
 
